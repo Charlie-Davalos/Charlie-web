@@ -1,6 +1,6 @@
 # Charlie web
 
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with [Create React App].
 
 ### `yarn start`
 
